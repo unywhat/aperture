@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+ss_fixed.png
+ss.png
+user_profiles.data
+
 # Distribution / packaging
 .Python
 build/
